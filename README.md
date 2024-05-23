@@ -1,5 +1,5 @@
-Medical College Static Web Page
-Project Overview
+**Medical College Static Web Page**
+**Project Overview**
 This project is a static web page designed for a medical college. The page includes various functionalities such as user login, account creation, and displays essential information about the college's facilities, a 3D view of the campus, and contact details. The purpose of this project is to provide a comprehensive and interactive web interface for prospective students, faculty, and visitors.
 
 Features
