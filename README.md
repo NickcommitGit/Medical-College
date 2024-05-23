@@ -1,4 +1,4 @@
-**Medical College Static Web Page**<br>
+**Medical College**<br>
 **Project Overview** <br>
 This project is a static web page designed for a medical college. The page includes various functionalities such as user login, account creation, and displays essential information about the college's facilities, a 3D view of the campus, and contact details. The purpose of this project is to provide a comprehensive and interactive web interface for prospective students, faculty, and visitors.
 
@@ -64,10 +64,10 @@ Fill out and submit the contact form for any inquiries.
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please follow these steps:
 
-**Fork the repository.
-Create a new branch.
-Make your changes.
-Submit a pull request.**
+**Fork the repository.<br>
+Create a new branch.<br>
+Make your changes.<br>
+Submit a pull request.**<br>
 **License**<br>
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
